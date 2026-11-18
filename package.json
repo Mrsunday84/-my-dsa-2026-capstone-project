@@ -1,0 +1,16 @@
+{
+  "name": "my-dsa-2026-capstone-project",
+  "version": "1.0.0",
+  "description": "event ticketing",
+  "keywords": [
+    "event",
+    "ticketing"
+  ],
+  "license": "ISC",
+  "author": "Sunday",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
